@@ -9,7 +9,7 @@ Although 'git' is a popular tool amoung community of computer engineering and fi
 You can use 'git' to control versions of your eletronic files including documents under specific folders on your computer.
 
 On the other hand, GitHub is one of famous platforms with 'git' for hosting eletronic files. (mainly for software projects)
-If you have some eletronic files to share with public for free, e.g. free software, composition, eletronic works of art, ...etc, then GitHub is one of famous place to share.
+If you have some eletronic files to share with public for free, e.g. free softwares, compositions, eletronic works of art, ...etc, then GitHub is one of famous place for you to share something.
 
 If you want to contribute to the translative project for interest, make a request to us.
 
